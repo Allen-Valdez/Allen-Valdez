@@ -8,7 +8,8 @@
 <hr/>
 🛠️ Languages and Tools :
 ![image](https://user-images.githubusercontent.com/68507863/200747200-6c278cfc-741a-4ed3-a614-11f17cabf549.png)
-[image](https://user-images.githubusercontent.com/68507863/200747409-5e1d2757-051f-41b4-a2c7-1d9a81d40c08.png)
+
+![image](https://user-images.githubusercontent.com/68507863/200747409-5e1d2757-051f-41b4-a2c7-1d9a81d40c08.png)
 
 
 
