@@ -7,7 +7,7 @@
 - <hr/>
 
     <p align="center">
-        ![programming-computer-frog](https://user-images.githubusercontent.com/68507863/200747936-9eb9aed0-73c9-4fa8-8d8d-1fea80d2de5b.gif)
+        <img src="https://user-images.githubusercontent.com/68507863/200747936-9eb9aed0-73c9-4fa8-8d8d-1fea80d2de5b.gif" alt="programming computer frog"/>
     </p>
 
 
