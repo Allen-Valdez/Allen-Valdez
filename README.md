@@ -5,7 +5,7 @@
 - 🥊 &nbsp; My hobbies include Muay Thai, Boxing, lifting weights, and programming!
 - 🙌🏾  &nbsp; I’m looking to collaborate on anything! I love to program and would love to work on any open source work.
 - <hr/>
-https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif
+! https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif
 
 <hr/>
 🛠️ Languages and Tools :
