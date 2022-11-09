@@ -8,6 +8,9 @@
 </div>
 <div>
    <img src="[https://user-images.githubusercontent.com/68507863/200756121-62179ead-c651-4aa8-8c26-2f8eb5983a9b.jpeg](https://user-images.githubusercontent.com/68507863/200756336-53818e8b-9cde-4fb0-b47e-9705d1983376.png)" alt="red linkedin logo"/>
+   ![download](https://user-images.githubusercontent.com/68507863/200756509-d8f7c7f6-1f10-4bc0-9419-d070e7b946d7.png)
+
+   
 <div>
 
 <hr/>
