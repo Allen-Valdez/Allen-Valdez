@@ -4,10 +4,7 @@
       <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=.1&pause=1000&color=F70000&center=true&multiline=true&width=435&lines=Allen+Valdez" alt="Typing SVG" /></a>
    </p>
    <br/>
-   <p align="center" width="600">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=.01&pause=1000&color=F70000&width=48&lines=I+am" alt="Typing SVG" /></a>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=F70000&center=true&width=420&lines=a+full+stack+software+engineer.;an+experienced+developer.;a+problem+solver.;an+innovator.;always+learning." alt="Typing SVG" /></a>
-   </p>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=F70000&center=true&width=420&lines=Full+stack+software+engineer.;Experienced+developer.;Problem+solver.;Innovator.;Always+learning." alt="Typing SVG" /></a>
 </div>
 
 <hr/>
