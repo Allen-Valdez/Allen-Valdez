@@ -7,7 +7,8 @@
 
 <hr/>
 🛠️ Languages and Tools :
-https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg
+![react-original-wordmark (1)](https://user-images.githubusercontent.com/68507863/200746855-86c5f9b4-29e4-4093-8979-cca5d5f87fab.svg)
+
 
 
 Material UI  Linux  Yarn  CSS  HTML  JavaScript  C#  DotNet  MySQL  Git  Typescript 
