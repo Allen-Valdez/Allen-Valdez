@@ -7,7 +7,7 @@
 
 <hr/>
 🛠️ Languages and Tools :
-![react-original-wordmark (1)](https://user-images.githubusercontent.com/68507863/200746855-86c5f9b4-29e4-4093-8979-cca5d5f87fab.svg)
+[react-original-wordmark (1)](https://user-images.githubusercontent.com/68507863/200746855-86c5f9b4-29e4-4093-8979-cca5d5f87fab.svg)
 
 
 
