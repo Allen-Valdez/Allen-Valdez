@@ -6,7 +6,9 @@
 - 🙌🏾  &nbsp; I’m looking to collaborate on anything! I love to program and would love to work on any open source work.
 - <hr/>
 
-    ![programming-computer-frog](https://user-images.githubusercontent.com/68507863/200747936-9eb9aed0-73c9-4fa8-8d8d-1fea80d2de5b.gif)
+    <p align="center">
+        ![programming-computer-frog](https://user-images.githubusercontent.com/68507863/200747936-9eb9aed0-73c9-4fa8-8d8d-1fea80d2de5b.gif)
+    </p>
 
 
 <hr/>
