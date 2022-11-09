@@ -7,8 +7,13 @@
 
 <hr/>
 🛠️ Languages and Tools :
+<div>
+  <ul>
+    <li>![image](https://user-images.githubusercontent.com/68507863/200747200-6c278cfc-741a-4ed3-a614-11f17cabf549.png)</li>
+    <li>![image](https://user-images.githubusercontent.com/68507863/200747409-5e1d2757-051f-41b4-a2c7-1d9a81d40c08.png)
+</li>
 
-![image](https://user-images.githubusercontent.com/68507863/200747200-6c278cfc-741a-4ed3-a614-11f17cabf549.png)
+
 
 Material UI  Linux  Yarn  CSS  HTML  JavaScript  C#  DotNet  MySQL  Git  Typescript 
 <!---
