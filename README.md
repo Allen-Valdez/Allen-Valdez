@@ -7,11 +7,10 @@
 
 <hr/>
 🛠️ Languages and Tools :
-![image](https://user-images.githubusercontent.com/68507863/200747200-6c278cfc-741a-4ed3-a614-11f17cabf549.png)
-
-![image](https://user-images.githubusercontent.com/68507863/200747409-5e1d2757-051f-41b4-a2c7-1d9a81d40c08.png)
 
 
+🛠️ Languages and Tools :
+[React](https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg)  Material UI  Linux  Yarn  CSS  HTML  JavaScript  C#  DotNet  MySQL  Git  Typescript
 
 Material UI  Linux  Yarn  CSS  HTML  JavaScript  C#  DotNet  MySQL  Git  Typescript 
 <!---
