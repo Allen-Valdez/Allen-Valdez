@@ -1,5 +1,8 @@
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=.1&pause=1000&color=F70000&center=true&multiline=true&width=435&lines=Allen+Valdez" alt="Typing SVG" /></a>
-
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=F70000&center=true&width=435&lines=A+Full+Stack+Software+Engineer.;An+Experienced+Developer.;A+Problem+Solver.;An+Innovator.;Always+Learning." alt="Typing SVG" /></a>
+</div>
+    
 <div align="center">
     <img src="https://user-images.githubusercontent.com/68507863/200747936-9eb9aed0-73c9-4fa8-8d8d-1fea80d2de5b.gif" alt="programming computer frog"/>
 </div>
