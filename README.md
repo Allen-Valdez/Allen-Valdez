@@ -2,7 +2,6 @@
 <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=.1&pause=1000&color=F70000&center=true&multiline=true&width=435&lines=Allen+Valdez" alt="Typing SVG" /></a>
     <br/>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=.01&pause=1000&color=F70000&center=true&width=200&lines=I+am..." alt="Typing SVG" /></a>
-    <br>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=F70000&width=420&lines=a+full+stack+software+engineer.;an+experienced+developer.;a+problem+solver.;an+innovator.;always+learning." alt="Typing SVG" /></a>
 </div>
     
