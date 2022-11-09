@@ -6,7 +6,7 @@
    <br/>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=F70000&center=true&width=420&lines=Full+stack+software+engineer.;Experienced+developer.;Problem+solver.;Innovator.;Always+learning." alt="Typing SVG" /></a>
 </div>
-<div>
+<div align="center">
    <img src="https://user-images.githubusercontent.com/68507863/200756509-d8f7c7f6-1f10-4bc0-9419-d070e7b946d7.png" alt="red linkedin logo"/>
 <div>
 
