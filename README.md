@@ -10,7 +10,8 @@
 
 
 🛠️ Languages and Tools :
-[React](https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg)  Material UI  Linux  Yarn  CSS  HTML  JavaScript  C#  DotNet  MySQL  Git  Typescript
+[React](https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg)  
+Material UI  Linux  Yarn  CSS  HTML  JavaScript  C#  DotNet  MySQL  Git  Typescript
 
 Material UI  Linux  Yarn  CSS  HTML  JavaScript  C#  DotNet  MySQL  Git  Typescript 
 <!---
