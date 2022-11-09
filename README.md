@@ -9,8 +9,8 @@
       <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=F70000&width=420&lines=a+full+stack+software+engineer.;an+experienced+developer.;a+problem+solver.;an+innovator.;always+learning." alt="Typing SVG" /></a>
    </p>
 </div>
-    
-    <hr/>
+
+<hr/>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/68507863/200747936-9eb9aed0-73c9-4fa8-8d8d-1fea80d2de5b.gif" alt="programming computer frog"/>
 </div>
