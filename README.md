@@ -1,10 +1,4 @@
-- 👋🏾 &nbsp; Hi, I’m @Allen-Valdez but you can call me Dez
-- 👀 &nbsp; I’m interested in Machine Learning/Artificial Intelligence however I love learning about Web Dev
-- 🌱 &nbsp;  I’m currently learning to be a Full Stack Web Developer and advance mathematics such as Discrete Math and Probaility/Statistics.
-- 🏫 &nbsp; I'm currently attending City College of San Francisco. I am pursuing two degrees: Mathematics and Computer Science.
-- 🥊 &nbsp; My hobbies include Muay Thai, Boxing, lifting weights, and programming!
-- 🙌🏾  &nbsp; I’m looking to collaborate on anything! I love to program and would love to work on any open source work.
-- <hr/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=.1&pause=1000&color=F70000&center=true&multiline=true&width=435&lines=Allen+Valdez" alt="Typing SVG" /></a>
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/68507863/200747936-9eb9aed0-73c9-4fa8-8d8d-1fea80d2de5b.gif" alt="programming computer frog"/>
@@ -12,7 +6,11 @@
 
 
 <hr/>
-🛠️ Languages and Tools :
+🛠️ My Arsenal:
+
+<div>
+    
+</div>
 
 <hr/>
 <!---
