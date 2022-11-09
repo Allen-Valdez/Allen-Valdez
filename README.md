@@ -5,6 +5,10 @@
 - 🥊 &nbsp; My hobbies include Muay Thai, Boxing, lifting weights, and programming!
 - 🙌🏾  &nbsp; I’m looking to collaborate on anything! I love to program and would love to work on any open source work.
 
+
+🛠️ Languages and Tools :
+React  Material UI  Linux  Yarn  CSS  HTML  JavaScript  C#  DotNet  MySQL  Git  Typescript 
+
 <!---
 Allen-Valdez/Allen-Valdez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
