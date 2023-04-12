@@ -9,13 +9,13 @@
 
 <hr/>
 <div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=F70000&center=true&vCenter=true&repeat=false&width=435&lines=Live+footage+of+me+programming..." alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=F70000&center=true&vCenter=true&repeat=false&width=435&lines=Live+footage+of+me+programming..." alt="Typing SVG" />
    <br/>
     <img src="https://user-images.githubusercontent.com/68507863/200747936-9eb9aed0-73c9-4fa8-8d8d-1fea80d2de5b.gif" alt="programming computer frog" width="450" height="300"/>
 </div>
 <hr/>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+My+Arsenal%3A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+My+Arsenal%3A" alt="Typing SVG" />
    <br/>
    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>&nbsp&nbsp&nbsp
    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp&nbsp&nbsp
@@ -35,7 +35,7 @@
    <br/>
    <br/>
    <br/>
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Currently+Mastering%3A" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Currently+Mastering%3A" alt="Typing SVG" />
    <br/>
       <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>&nbsp&nbsp&nbsp
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp&nbsp&nbsp
