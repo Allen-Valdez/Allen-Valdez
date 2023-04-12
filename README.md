@@ -1,15 +1,16 @@
 
 <div align="center">
    <p>
-      <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=.1&pause=1000&color=F70000FF&center=true&multiline=true&width=435&lines=Hey+there,+i'm+Allen+Valdez" alt="Typing SVG" height="60" /></a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=.1&pause=1000&color=F70000FF&center=true&multiline=true&width=435&lines=Hey+there,+i'm+Allen+Valdez" alt="Typing SVG" height="60" />
    </p>
    <br/>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=F70000FF&center=true&width=420&lines=Full+stack+software+engineer.;Experienced+developer.;Problem+solver.;Innovator.;Always+learning." alt="Typing SVG" height="60"/></a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=F70000FF&center=true&width=420&lines=Full+stack+software+engineer.;Experienced+developer.;Problem+solver.;Innovator.;Always+learning." alt="Typing SVG" height="60"/>
 </div>
 
 <hr/>
 <div align="center">
-   <h3>Live footage of me programming</h3>
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&repeat=false&width=435&lines=Live+footage+of+me+programming..." alt="Typing SVG" />
+   <br/>
     <img src="https://user-images.githubusercontent.com/68507863/200747936-9eb9aed0-73c9-4fa8-8d8d-1fea80d2de5b.gif" alt="programming computer frog" width="450" height="300"/>
 </div>
 <hr/>
