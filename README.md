@@ -1,10 +1,10 @@
 
 <div align="center">
    <p>
-      <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=.1&pause=1000&color=F70000&center=true&multiline=true&width=435&lines=Hey+there,+i'm+Allen+Valdez" alt="Typing SVG" height="60" /></a>
+      <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=.1&pause=1000&color=F7F7F7FF&center=true&multiline=true&width=435&lines=Hey+there,+i'm+Allen+Valdez" alt="Typing SVG" height="60" /></a>
    </p>
    <br/>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=F70000&center=true&width=420&lines=Full+stack+software+engineer.;Experienced+developer.;Problem+solver.;Innovator.;Always+learning." alt="Typing SVG" height="60"/></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=F7F7F7FF&center=true&width=420&lines=Full+stack+software+engineer.;Experienced+developer.;Problem+solver.;Innovator.;Always+learning." alt="Typing SVG" height="60"/></a>
 </div>
 
 <hr/>
